@@ -30,3 +30,19 @@ Lecture 2.12: Header Guards
 ## Lecture_4_3_Sizeof
 
 Lecture 4.3: Size of different data types. 
+
+## Lecture_4_10_Quiz_1_Prime
+
+Lecture 4.3: Enter a number between 0 to 9, output if the number is a prime or not. 
+
+## Lecture_4_14_Compile_Time_Const
+
+Lecture 4.3: Try out compile time constant. 
+
+## Lecture_4_17_Quiz_1_String_Length
+
+Lecture 4.3: Print out string length. 
+
+## Lecture_4_x_QUiz_Calculate_two_doubles
+
+Lecture 4.3: Try out compile time constant. 

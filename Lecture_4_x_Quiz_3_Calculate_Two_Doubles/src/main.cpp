@@ -29,7 +29,7 @@ double calculate(double x, char operation, double y)
 
 void printResult(double x, char operation, double y)
 {
-    std::cout << x << " " << operation << " " << y << " is " << calculate(x, operation, y) << '\n';
+    std::cout << x << ' ' << operation << ' ' << y << " is " << calculate(x, operation, y) << '\n';
 }
 
 int main()
