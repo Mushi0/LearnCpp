@@ -33,16 +33,20 @@ Lecture 4.3: Size of different data types.
 
 ## Lecture_4_10_Quiz_1_Prime
 
-Lecture 4.3: Enter a number between 0 to 9, output if the number is a prime or not. 
+Lecture 4.10: Enter a number between 0 to 9, output if the number is a prime or not. 
 
 ## Lecture_4_14_Compile_Time_Const
 
-Lecture 4.3: Try out compile time constant. 
+Lecture 4.14: Try out compile time constant. 
 
 ## Lecture_4_17_Quiz_1_String_Length
 
-Lecture 4.3: Print out string length. 
+Lecture 4.17: Print out string length. 
 
-## Lecture_4_x_QUiz_Calculate_two_doubles
+## Lecture_4_x_QUiz_3_Calculate_two_doubles
 
-Lecture 4.3: Try out compile time constant. 
+Lecture 4.x Quiz 3: Calculate two doubles with different operators. 
+
+## Lecture_6_2_User_Define_Namespace
+
+Lecture 6.2: User defined namespace: add.h. 
