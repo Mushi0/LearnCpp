@@ -50,3 +50,7 @@ Lecture 4.x Quiz 3: Calculate two doubles with different operators.
 ## Lecture_6_2_User_Define_Namespace
 
 Lecture 6.2: User defined namespace: add.h. 
+
+## Lecture_6_3_Quiz_1_Local_Variable
+
+Lecture 6.3 Quiz 1: Enter two integers and print the larger and smaller ones using temporary variables. 
